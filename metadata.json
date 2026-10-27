@@ -1,0 +1,6 @@
+{
+  "name": "장은영 HRD Career Portfolio",
+  "description": "현장의 이슈를 데이터로 읽고 최적의 솔루션으로 비즈니스 성장을 리딩하는 HRD 전문가 장은영의 커리어 포트폴리오",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
